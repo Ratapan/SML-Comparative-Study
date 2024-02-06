@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+plotly
+imbalanced-learn
+scikit-learn
+ydata-profiling
+optuna
+xgboost
+lightgbm
+catboost
+shap
+statsmodels
+seaborn<0.13,>=0.10.1
+ipywidgets
+openpyxl
